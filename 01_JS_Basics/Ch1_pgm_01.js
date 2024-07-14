@@ -1,6 +1,7 @@
 // Using console.log to display information
 
 console.log("Hello World!");
+console.log("I am Santhosh");
 
 
 /* Further Adventures
